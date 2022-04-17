@@ -1,4 +1,4 @@
-﻿namespace WebApplication1
+﻿namespace AplikacjaHttp
 {
     public class Dto
     {
